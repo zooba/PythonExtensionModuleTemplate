@@ -1,0 +1,7 @@
+[patterns]
+**.ico  = BIN
+
+** = native
+
+[repository]
+native = LF
